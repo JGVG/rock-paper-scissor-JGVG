@@ -1,6 +1,7 @@
 # d03_paper_rock_scissors_jgvg
 
-A new Flutter application.
+Juego del piedra papel y tigeras. v1.0.0
+
 
 ## Getting Started
 
